@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080454304999",
+    "firebase_url": "https://pureshop-e50d8.firebaseio.com",
+    "project_id": "pureshop-e50d8",
+    "storage_bucket": "pureshop-e50d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080454304999:android:f593bb04bc912f929afe42",
+        "android_client_info": {
+          "package_name": "com.samoitadianah.pureshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080454304999-b4qb8523hv08i42cb9srqjjv709e1o6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAX_i-ePaz6ZmTnZAYurvGZHJudiFB38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080454304999-b4qb8523hv08i42cb9srqjjv709e1o6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
